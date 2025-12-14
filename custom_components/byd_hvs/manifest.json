@@ -7,6 +7,6 @@
   "documentation": "https://github.com/rakete/byd_hvs",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/rakete/byd_hvs/issues",
-  "requirements": ["bydhvs@https://github.com/rakete/python-bydhvs.git@rakete"],
+  "requirements": ["bydhvs@git+https://github.com/rakete/python-bydhvs.git@rakete"],
   "version": "0.4.12"
 }
