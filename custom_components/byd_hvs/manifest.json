@@ -1,12 +1,12 @@
 {
   "domain": "byd_hvs",
-  "name": "BYD HVS Battery",
-  "codeowners": ["@bbr111"],
+  "name": "BYD HVS Battery (Rakete)",
+  "codeowners": ["@rakete"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/bbr111/byd_hvs",
+  "documentation": "https://github.com/rakete/byd_hvs",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/bbr111/byd_hvs/issues",
+  "issue_tracker": "https://github.com/rakete/byd_hvs/issues",
   "requirements": ["bydhvs@https://github.com/rakete/python-bydhvs.git@rakete"],
   "version": "0.4.12"
 }
