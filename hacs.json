@@ -1,5 +1,5 @@
 {
-  "name": "BYD HVS/HMS/LVS Battery",
+  "name": "BYD HVS/HMS/LVS Battery (Rakete)",
   "content_in_root": false,
   "homeassistant": "2021.6.0",
   "render_readme": false,
